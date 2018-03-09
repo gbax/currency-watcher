@@ -29,3 +29,19 @@
     stroke: steelblue;
     stroke-width: 1.5px;
 }
+
+.currency-watcher__content {
+    background-color: #F5F5F5;
+}
+
+.currency-watcher__tab-pane__table {
+    margin: 20px;
+}
+
+.currency-watcher__tab-pane__graph {
+    margin: 20px;overflow-x:auto;
+}
+
+.currency-watcher__tab-pane__graph__container {
+    margin-left: auto; margin-right: auto;  width: 800px;
+}
